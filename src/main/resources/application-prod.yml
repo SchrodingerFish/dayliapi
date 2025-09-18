@@ -1,0 +1,8 @@
+send:
+  api:
+    url: "https://xxx"
+    key: "xxx"
+news:
+  api:
+    url: "https://xxx"
+    key: "xxx"
