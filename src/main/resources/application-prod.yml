@@ -1,8 +1,8 @@
 send:
   api:
-    url: "https://xxx"
+    url: "https://api.wpush.cn/api/v1/send"
     key: "xxx"
 news:
   api:
-    url: "https://xxx"
+    url: "https://v3.alapi.cn/api/zaobao"
     key: "xxx"
